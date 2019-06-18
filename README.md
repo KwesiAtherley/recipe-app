@@ -1,5 +1,5 @@
 The second project in my #js30 challenge.
-A small recipe finding app that covers the followin concepts -
+A small recipe finding app that covers the following concepts -
 
 1. How to fetch data from an api using React
 2. How useState and useEffect work
